@@ -27,3 +27,4 @@
 - puppet-statsd
 - puppet-tmpwatch
 - puppet-zarafa
+- puppet-jjb
