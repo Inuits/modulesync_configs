@@ -12,7 +12,6 @@
 - puppet-ldap_auth
 - puppet-logrotate
 - puppet-logster
-- puppet-nfs
 - puppet-openswan
 - puppet-packetbeat
 - puppet-passenger
